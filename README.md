@@ -1,16 +1,39 @@
-# React + Vite
+# Simple UI Project 🎨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimalist web interface built during my early days of exploring **React** and **Tailwind CSS**. This project served as a playground for learning component-based architecture and utility-first styling.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Functional Components:** Practiced breaking the UI into reusable pieces.
+- **Utility Styling:** Used Tailwind CSS for rapid design.
+- **Responsive Design:** Basic mobile-friendly layout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Built With
+- [React](https://reactjs.org/) - Frontend library
+- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
+- [Vite](https://vitejs.dev/) / [CRA](https://create-react-app.dev/) - Build tool
 
-## React Compiler
+## 🚀 Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+To run this project locally:
 
-## Expanding the ESLint configuration
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+Use code with caution.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Install dependencies:
+bash
+npm install
+Use code with caution.
+
+Start the dev server:
+bash
+npm run dev
+Use code with caution.
+
+💡 Learning Progress
+This was one of my first steps into modern frontend development. I focused on:
+Understanding the React component structure and props.
+Implementing Tailwind utility classes for layout.
+Managing basic state.
+Created with ❤️ as part of my frontend learning journey.
