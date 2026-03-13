@@ -19,16 +19,19 @@ To run this project locally:
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/MuhammadAhmadCode/ui_project_react.git
+   ```
 Use code with caution.
 
 Install dependencies:
-bash
+```bash
 npm install
+```
 Use code with caution.
 
 Start the dev server:
-bash
+```bash
 npm run dev
+```
 Use code with caution.
 
 💡 Learning Progress
